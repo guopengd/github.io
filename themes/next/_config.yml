@@ -677,8 +677,8 @@ gitalk:
   enable: true
   github_id: guopengd # Github repo owner
   repo: guopengd.github.io # Repository name to store issues
-  client_id: fc6b6d72c254ff603284 # Github
-  client_secret: f3de5a57e34c2b0d7eed28382b011b8cd6256330 # Github
+  client_id: 7c22fb903e8afb2f8ef4 # Github
+  client_secret: bd4208ed782d0e48ab1539d8b6c6516a02e0eafe # Github
   admin_user: guopengd # GitHub repo owner and collaborators, only these guys can initialize github issues
   # distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
@@ -1000,12 +1000,12 @@ pace: true
 # pace-theme-big-counter | pace-theme-bounce | pace-theme-barber-shop | pace-theme-center-atom
 # pace-theme-center-circle | pace-theme-center-radar | pace-theme-center-simple | pace-theme-corner-indicator
 # pace-theme-fill-left | pace-theme-flash | pace-theme-loading-bar | pace-theme-mac-osx | pace-theme-minimal
-pace_theme: pace-theme-minimal
+pace_theme: pace-theme-mac-osx
 
 # Canvas-nest
 # Dependencies: https://github.com/theme-next/theme-next-canvas-nest
 canvas_nest:
-  enable: true
+  enable: false
   onmobile: true # display on mobile or not
   color: "0,0,255" # RGB values, use ',' to separate
   opacity: 0.5 # the opacity of line: 0~1

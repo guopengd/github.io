@@ -127,8 +127,6 @@
 {% endif %}
 {% include custom_head %}
 
-<!-- 网页加载条 -->
-<script src="https://neveryu.github.io/js/src/pace.min.js"></script>
 <!-- 联系我功能 -->
 {% if theme.daovoice %}
   <script>
